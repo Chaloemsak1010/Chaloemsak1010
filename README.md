@@ -14,7 +14,7 @@ Currently, I’m developing a **community-based second-hand selling web app** fo
 
 ---
 
-#### 🛒 Community-Based Second-Hand Products Selling (2025 – Present)
+#### 🛒 Community-Based Second-Hand Products Selling (Present)
 
 Currently focusing on my **senior project**, a web application that supports second-hand product trading among **Mae Fah Luang University students**.
 

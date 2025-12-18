@@ -14,11 +14,6 @@ I enjoy building **web and mobile applications**, exploring **real-world applica
 
 ---
 
-#### 🛒 Community-Based Second-Hand Products Selling (Present)
-
-Currently focusing on my **senior project**, a web application that supports second-hand product trading among **Mae Fah Luang University students**.
-
----
 
 ### 🧠 Knowledge & Tech Stack
 

@@ -8,7 +8,7 @@
 
 I'm a computer engineering student with a passion for **problem-solving** using **modern technologies**, **AI tools**, and **IoT systems**.  
 I enjoy building **web and mobile applications**, exploring **real-world applications of AI**, and crafting systems that truly help people.  
-Currently, I’m developing a **community-based second-hand selling web app** for MFU students using **Next.js** and **NextAuth.js**.
+
 
 > 🌟 My goal is to become a professional **Full-Stack Software Engineer** who builds impactful and scalable applications.
 

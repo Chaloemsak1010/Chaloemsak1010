@@ -17,7 +17,7 @@ I enjoy building **web and mobile applications**, exploring **real-world applica
 
 ### 🧠 Knowledge & Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,js,ts,nodejs,express,flutter,dart,py,java,cs,cpp,mysql,docker,postman,figma,androidstudio,github,vscode,canva,notion,bot,firebase,vercel,git,githubactions,dotnet,jenkins,terminal,powershell&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,js,ts,nodejs,express,flutter,dart,py,java,cs,cpp,mysql,docker,postman,figma,androidstudio,github,vscode,linux,notion,bot,firebase,vercel,git,githubactions,dotnet,jenkins,terminal,powershell&perline=11)](https://skillicons.dev)
 
 ---
 

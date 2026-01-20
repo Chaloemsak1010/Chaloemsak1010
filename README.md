@@ -17,7 +17,7 @@ I enjoy building **web and mobile applications**, exploring **real-world applica
 
 ### 🧠 Knowledge & Tech Stack
 
-[![Techstack](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,stripe,tailwind,js,ts,nodejs,express,flutter,dart,python,java,cs,cpp,mysql,docker,postman,figma,androidstudio,platformio,github,vscode,figma,canva,notion,chatgpt,claude,gemini,api,jwt,firebase,vercel,git,githubactions,n8n,deepseek,ollama,terminal,powershell,skeletonui,&titles=true)](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,stripe,tailwind,js,ts,nodejs,express,flutter,dart,python,java,cs,cpp,mysql,docker,postman,figma,androidstudio,platformio,github,vscode,canva,notion,chatgpt,claude,gemini,api,jwt,firebase,vercel,git,githubactions,n8n,deepseek,ollama,terminal,powershell,skeletonui,dotnet&titles=true)
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,js,ts,nodejs,express,flutter,dart,py,java,cs,cpp,mysql,docker,postman,figma,androidstudio,github,vscode,canva,notion,bot,firebase,vercel,git,githubactions,dotnet,jenkins,terminal,powershell&perline=11)](https://skillicons.dev)
 
 ---
 

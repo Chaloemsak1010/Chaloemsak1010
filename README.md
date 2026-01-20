@@ -7,17 +7,15 @@
 ### 💡 About Me
 
 I'm a computer engineering student with a passion for **problem-solving** using **modern technologies**, **AI tools**, and **IoT systems**.  
-I enjoy building **web and mobile applications**, exploring **real-world applications of AI**, and crafting systems that truly help people.  
-
+I enjoy building **web and mobile applications**, exploring **real-world applications of AI**, and crafting systems that truly help people.
 
 > 🌟 My goal is to become a professional **Full-Stack Software Engineer** who builds impactful and scalable applications.
 
 ---
 
-
 ### 🧠 Knowledge & Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,js,ts,nodejs,express,flutter,dart,py,java,cs,cpp,mysql,docker,postman,figma,androidstudio,github,vscode,linux,notion,bot,firebase,vercel,git,githubactions,dotnet,jenkins,terminal,powershell&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,js,ts,nodejs,express,vite,flutter,dart,py,java,cs,cpp,docker,postman,figma,androidstudio,github,vscode,linux,notion,vercel,git,githubactions,dotnet,postgres,mysql,mongodb,prisma,bash,powershell,npm,raspberrypi)](https://skillicons.dev)
 
 ---
 

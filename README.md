@@ -6,10 +6,13 @@
 
 ### 💡 About Me
 
-I'm a computer engineering student with a passion for **problem-solving** using **modern technologies**, **AI tools**, and **IoT systems**.  
-I enjoy building **web and mobile applications**, exploring **real-world applications of AI**, and crafting systems that truly help people.
+I'm a Computer Engineering student passionate about solving real-world problems using **modern technologies**, **AI tools**, and **IoT systems**. I enjoy building **web and mobile applications** and exploring how AI can be integrated into practical, impactful solutions.
 
-> 🌟 My goal is to become a professional **Full-Stack Software Engineer** who builds impactful and scalable applications.
+Currently, I am a Co-op Intern at **Bangchak Corporation Public Company Limited (BCP)**, where I am working on a real-world **Application Inventory System**, gaining hands-on experience in full-stack development, system design, and scalable architectures.
+
+I’m also continuously expanding my skills in **AI integration (RAG, LLM APIs)**, **cybersecurity fundamentals**, and **CI/CD & DevOps practices** to build reliable and intelligent systems.
+
+> 🌟 My goal is to become a professional **Full-Stack Software Engineer** who builds scalable, high-impact applications.
 
 ---
 

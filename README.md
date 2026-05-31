@@ -1,14 +1,12 @@
 ## 👋 Hello World! I'm Mike (Chaloemsak Arsung)
 
-**💼 Junior Full Stack Developer | 🎓 Computer Engineering Student @ Mae Fah Luang University**
+**💼 Junior Full Stack Developer | 🎓 B.Eng. in Computer Engineering, Mae Fah Luang University**
 
 ---
 
 ### 💡 About Me
 
 I'm a Computer Engineering student passionate about solving real-world problems using **modern technologies**, **AI tools**, and **IoT systems**. I enjoy building **web and mobile applications** and exploring how AI can be integrated into practical, impactful solutions.
-
-Currently, I am a Co-op Intern at **Bangchak Corporation Public Company Limited (BCP)**, where I am working on a real-world **Application Inventory System**, gaining hands-on experience in full-stack development, system design, and scalable architectures.
 
 I’m also continuously expanding my skills in **AI integration (RAG, LLM APIs)**, **cybersecurity fundamentals**, and **CI/CD & DevOps practices** to build reliable and intelligent systems.
 

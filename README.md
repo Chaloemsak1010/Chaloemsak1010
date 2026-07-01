@@ -1,6 +1,6 @@
 ## 👋 Hello World! I'm Mike.
 
-**💼 Junior Full Stack Developer | 🎓 B.Eng. in Computer Engineering, Mae Fah Luang University**
+**⚙️ Junior Full Stack Software engineer | 🎓 B.Eng. in Computer Engineering, Mae Fah Luang University**
 
 ---
 
@@ -14,7 +14,7 @@
 
 > "Ever heard of Tony Stark? Yeah, think something like that."
 
----
+## ![Tony](assets/tony.gif)
 
 ### 🧠 Knowledge & Tech Stack
 

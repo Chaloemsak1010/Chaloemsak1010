@@ -18,7 +18,7 @@
 
 ### 🧠 Knowledge & Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,js,ts,nodejs,express,vite,flutter,dart,py,java,cs,cpp,docker,postman,figma,androidstudio,github,vscode,linux,notion,vercel,git,githubactions,dotnet,postgres,mysql,mongodb,prisma,bash,powershell,npm,raspberrypi,firebase,gitlab,ubuntu,aws)
+![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,js,ts,nodejs,express,vite,flutter,dart,py,java,cs,cpp,docker,postman,figma,androidstudio,github,vscode,linux,notion,vercel,git,githubactions,dotnet,postgres,mysql,mongodb,prisma,bash,powershell,npm,raspberrypi,firebase,gitlab,ubuntu,aws,supabase,go)
 
 ---
 
